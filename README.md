@@ -5,6 +5,22 @@
  
 <br><br>
 
+# 🛠️ Tech stack
+### Language
+<div align=center> 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+### Frameowork
+</div>
+<div align=center> 
+`Qt`
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</div>
+
+
+
 <!--
 **cfent12/cfent12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
