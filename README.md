@@ -16,10 +16,9 @@
 </div>
 
 ### Frameowork
-![any text: you like](https://img.shields.io/badge/any_text-you_like-blue)
-
 <div align=center>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Qt-00414A?style=for-the-badge&logo=qt&logoColor=2CDE85">
 </div>
 
 ### IDE
